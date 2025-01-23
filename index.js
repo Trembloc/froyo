@@ -22,4 +22,3 @@ function countOrderItems() {
 
 const orderCounts = countOrderItems();
 console.log(orderCounts);
-
